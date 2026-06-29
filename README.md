@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/yalini09/leat-_code-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/yalini09/leat-_code-problems/tree/master/0412-fizz-buzz) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/yalini09/leat-_code-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yalini09/leat-_code-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/yalini09/leat-_code-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
 | ------- |
