@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/yalini09/leat-_code-problems/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/yalini09/leat-_code-problems/tree/master/0657-robot-return-to-origin) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/yalini09/leat-_code-problems/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/yalini09/leat-_code-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/yalini09/leat-_code-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Math
 |  |
@@ -46,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yalini09/leat-_code-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/yalini09/leat-_code-problems/tree/master/1512-number-of-good-pairs) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/yalini09/leat-_code-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/yalini09/leat-_code-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/yalini09/leat-_code-problems/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/yalini09/leat-_code-problems/tree/master/0657-robot-return-to-origin) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/yalini09/leat-_code-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
