@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/yalini09/leat-_code-problems/tree/master/0009-palindrome-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yalini09/leat-_code-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/yalini09/leat-_code-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/yalini09/leat-_code-problems/tree/master/2235-add-two-integers) |
