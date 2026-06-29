@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/yalini09/leat-_code-problems/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/yalini09/leat-_code-problems/tree/master/0657-robot-return-to-origin) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/yalini09/leat-_code-problems/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/yalini09/leat-_code-problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yalini09/leat-_code-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/yalini09/leat-_code-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Math
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/yalini09/leat-_code-problems/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/yalini09/leat-_code-problems/tree/master/0657-robot-return-to-origin) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/yalini09/leat-_code-problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yalini09/leat-_code-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
