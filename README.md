@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/yalini09/leat-_code-problems/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/yalini09/leat-_code-problems/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/yalini09/leat-_code-problems/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2651-calculate-delayed-arrival-time](https://github.com/yalini09/leat-_code-problems/tree/master/2651-calculate-delayed-arrival-time) |
 ## Prefix Sum
 |  |
 | ------- |
