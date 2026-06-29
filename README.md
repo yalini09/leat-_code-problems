@@ -12,10 +12,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/yalini09/leat-_code-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2485-find-the-pivot-integer](https://github.com/yalini09/leat-_code-problems/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/yalini09/leat-_code-problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/yalini09/leat-_code-problems/tree/master/2485-find-the-pivot-integer) |
+## Greedy
+|  |
+| ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/yalini09/leat-_code-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Sorting
+|  |
+| ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/yalini09/leat-_code-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 <!---LeetCode Topics End-->
