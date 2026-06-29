@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/yalini09/leat-_code-problems/tree/master/0009-palindrome-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yalini09/leat-_code-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/yalini09/leat-_code-problems/tree/master/1323-maximum-69-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/yalini09/leat-_code-problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/yalini09/leat-_code-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/yalini09/leat-_code-problems/tree/master/2235-add-two-integers) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/yalini09/leat-_code-problems/tree/master/1323-maximum-69-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/yalini09/leat-_code-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Sorting
 |  |
