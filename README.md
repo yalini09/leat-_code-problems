@@ -44,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/yalini09/leat-_code-problems/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yalini09/leat-_code-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/yalini09/leat-_code-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/yalini09/leat-_code-problems/tree/master/0217-contains-duplicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yalini09/leat-_code-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yalini09/leat-_code-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/yalini09/leat-_code-problems/tree/master/1512-number-of-good-pairs) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/yalini09/leat-_code-problems/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yalini09/leat-_code-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/yalini09/leat-_code-problems/tree/master/1512-number-of-good-pairs) |
 ## Counting
