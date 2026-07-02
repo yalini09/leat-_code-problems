@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/yalini09/leat-_code-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/yalini09/leat-_code-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/yalini09/leat-_code-problems/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/yalini09/leat-_code-problems/tree/master/0657-robot-return-to-origin) |
 | [0929-unique-email-addresses](https://github.com/yalini09/leat-_code-problems/tree/master/0929-unique-email-addresses) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yalini09/leat-_code-problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/yalini09/leat-_code-problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/yalini09/leat-_code-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/yalini09/leat-_code-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/yalini09/leat-_code-problems/tree/master/0575-distribute-candies) |
 | [0929-unique-email-addresses](https://github.com/yalini09/leat-_code-problems/tree/master/0929-unique-email-addresses) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yalini09/leat-_code-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/yalini09/leat-_code-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/yalini09/leat-_code-problems/tree/master/1512-number-of-good-pairs) |
 ## Number Theory
 |  |
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yalini09/leat-_code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/yalini09/leat-_code-problems/tree/master/0349-intersection-of-two-arrays) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/yalini09/leat-_code-problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
