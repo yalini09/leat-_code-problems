@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yalini09/leat-_code-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/yalini09/leat-_code-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/yalini09/leat-_code-problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/yalini09/leat-_code-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/yalini09/leat-_code-problems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/yalini09/leat-_code-problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yalini09/leat-_code-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yalini09/leat-_code-problems/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/yalini09/leat-_code-problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/yalini09/leat-_code-problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/yalini09/leat-_code-problems/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yalini09/leat-_code-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/yalini09/leat-_code-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yalini09/leat-_code-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yalini09/leat-_code-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/yalini09/leat-_code-problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/yalini09/leat-_code-problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/yalini09/leat-_code-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/yalini09/leat-_code-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/yalini09/leat-_code-problems/tree/master/0424-longest-repeating-character-replacement) |
