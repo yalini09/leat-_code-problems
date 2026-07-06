@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yalini09/leat-_code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/yalini09/leat-_code-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/yalini09/leat-_code-problems/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/yalini09/leat-_code-problems/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/yalini09/leat-_code-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yalini09/leat-_code-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yalini09/leat-_code-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/yalini09/leat-_code-problems/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
