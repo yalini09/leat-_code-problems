@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/yalini09/leat-_code-problems/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/yalini09/leat-_code-problems/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/yalini09/leat-_code-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [2485-find-the-pivot-integer](https://github.com/yalini09/leat-_code-problems/tree/master/2485-find-the-pivot-integer) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yalini09/leat-_code-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yalini09/leat-_code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/yalini09/leat-_code-problems/tree/master/0217-contains-duplicate) |
+| [0303-range-sum-query-immutable](https://github.com/yalini09/leat-_code-problems/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/yalini09/leat-_code-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/yalini09/leat-_code-problems/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/yalini09/leat-_code-problems/tree/master/0643-maximum-average-subarray-i) |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/yalini09/leat-_code-problems/tree/master/0876-middle-of-the-linked-list) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/yalini09/leat-_code-problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
