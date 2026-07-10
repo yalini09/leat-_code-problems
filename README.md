@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yalini09/leat-_code-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/yalini09/leat-_code-problems/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/yalini09/leat-_code-problems/tree/master/0876-middle-of-the-linked-list) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/yalini09/leat-_code-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/yalini09/leat-_code-problems/tree/master/0011-container-with-most-water) |
 | [1323-maximum-69-number](https://github.com/yalini09/leat-_code-problems/tree/master/1323-maximum-69-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/yalini09/leat-_code-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/yalini09/leat-_code-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yalini09/leat-_code-problems/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yalini09/leat-_code-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/yalini09/leat-_code-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/yalini09/leat-_code-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Array
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yalini09/leat-_code-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2906-construct-product-matrix](https://github.com/yalini09/leat-_code-problems/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/yalini09/leat-_code-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/yalini09/leat-_code-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yalini09/leat-_code-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/yalini09/leat-_code-problems/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/yalini09/leat-_code-problems/tree/master/1004-max-consecutive-ones-iii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/yalini09/leat-_code-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Queue
 |  |
 | ------- |
@@ -208,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yalini09/leat-_code-problems/tree/master/0053-maximum-subarray) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/yalini09/leat-_code-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -219,4 +225,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/yalini09/leat-_code-problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/yalini09/leat-_code-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yalini09/leat-_code-problems/tree/master/0232-implement-queue-using-stacks) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/yalini09/leat-_code-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/yalini09/leat-_code-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
