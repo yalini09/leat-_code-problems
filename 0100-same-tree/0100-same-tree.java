@@ -27,7 +27,6 @@ class Solution {
         }
         boolean x =isSameTree(p.left,q.left); 
         boolean y =isSameTree(p.right,q.right); 
-        return x&&y;
-        
+        return x&&y;  
     }
 }
