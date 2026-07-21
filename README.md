@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/yalini09/leat-_code-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yalini09/leat-_code-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/yalini09/leat-_code-problems/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/yalini09/leat-_code-problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/yalini09/leat-_code-problems/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yalini09/leat-_code-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yalini09/leat-_code-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -277,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/yalini09/leat-_code-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yalini09/leat-_code-problems/tree/master/0701-insert-into-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/yalini09/leat-_code-problems/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
