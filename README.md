@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yalini09/leat-_code-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/yalini09/leat-_code-problems/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/yalini09/leat-_code-problems/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/yalini09/leat-_code-problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/yalini09/leat-_code-problems/tree/master/0020-valid-parentheses) |
