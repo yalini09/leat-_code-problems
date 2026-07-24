@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/yalini09/leat-_code-problems/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yalini09/leat-_code-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yalini09/leat-_code-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yalini09/leat-_code-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yalini09/leat-_code-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yalini09/leat-_code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/yalini09/leat-_code-problems/tree/master/0217-contains-duplicate) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/yalini09/leat-_code-problems/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/yalini09/leat-_code-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yalini09/leat-_code-problems/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yalini09/leat-_code-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/yalini09/leat-_code-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Recursion
 |  |
