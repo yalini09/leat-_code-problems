@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/yalini09/leat-_code-problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/yalini09/leat-_code-problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/yalini09/leat-_code-problems/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/yalini09/leat-_code-problems/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yalini09/leat-_code-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yalini09/leat-_code-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yalini09/leat-_code-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/yalini09/leat-_code-problems/tree/master/0078-subsets) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/yalini09/leat-_code-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
 |  |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/yalini09/leat-_code-problems/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/yalini09/leat-_code-problems/tree/master/0078-subsets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
