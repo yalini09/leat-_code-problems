@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yalini09/leat-_code-problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/yalini09/leat-_code-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yalini09/leat-_code-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yalini09/leat-_code-problems/tree/master/0018-4sum) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yalini09/leat-_code-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/yalini09/leat-_code-problems/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/yalini09/leat-_code-problems/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/yalini09/leat-_code-problems/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/yalini09/leat-_code-problems/tree/master/0013-roman-to-integer) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yalini09/leat-_code-problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/yalini09/leat-_code-problems/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/yalini09/leat-_code-problems/tree/master/0053-maximum-subarray) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/yalini09/leat-_code-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
