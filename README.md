@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/yalini09/leat-_code-problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/yalini09/leat-_code-problems/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/yalini09/leat-_code-problems/tree/master/0135-candy) |
 | [1323-maximum-69-number](https://github.com/yalini09/leat-_code-problems/tree/master/1323-maximum-69-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/yalini09/leat-_code-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/yalini09/leat-_code-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yalini09/leat-_code-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yalini09/leat-_code-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yalini09/leat-_code-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/yalini09/leat-_code-problems/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yalini09/leat-_code-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yalini09/leat-_code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/yalini09/leat-_code-problems/tree/master/0217-contains-duplicate) |
